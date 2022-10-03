@@ -1,5 +1,5 @@
 import {NavLink} from "react-router-dom"
-import "./Navigation.css"
+import style from "./Navigation.module.css"
 const Navigation = () => {
   //to gidilmesi istenilen link,link sayfanın render edilmemesini sağlar
   //navlinkin avantajı active menuye class verilir,data default gelir

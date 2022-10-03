@@ -1,6 +1,10 @@
+import Profile from "../../components/Profile/Profile";
 const MyProfile = () => {
+  
   return (
-    <div>MyProfile</div>
+    <div >
+     <Profile></Profile>
+    </div>
   )
 }
 

@@ -1,6 +1,9 @@
+import Login from "../../components/Login/Login";
 const UserLogin = () => {
   return (
-    <div>UserLogin</div>
+    <div >                       
+    <Login></Login>
+    </div>
   )
 }
 

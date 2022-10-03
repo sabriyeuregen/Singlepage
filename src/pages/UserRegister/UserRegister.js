@@ -1,6 +1,7 @@
+import Register from "../../components/Register/Register";
 const UserRegister = () => {
   return (
-    <div>UserRegister</div>
+    <Register></Register>
   )
 }
 

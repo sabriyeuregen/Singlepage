@@ -1,0 +1,18 @@
+.myprofile{
+    text-align: center;
+    padding-top:20px ;
+    position: relative;
+    width: 100%;
+    margin-top: 40px;
+    background-color:#808097;
+    border-radius: 12px;
+    border: 0;
+    box-sizing: border-box;
+    color: #eee;
+    height: 100%;
+    outline: 0;
+    padding: 4px 20px 0;
+}
+.myprofile__content{
+    font-size: 40px;
+}
